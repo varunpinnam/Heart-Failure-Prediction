@@ -1,4 +1,0 @@
-streamlit
-pandas
-numpay
-scikit-learn
